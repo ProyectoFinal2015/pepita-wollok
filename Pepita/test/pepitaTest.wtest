@@ -1,0 +1,4 @@
+
+test testX {
+	var a = 0
+}
